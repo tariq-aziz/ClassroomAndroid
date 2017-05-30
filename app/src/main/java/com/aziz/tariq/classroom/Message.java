@@ -1,8 +1,5 @@
 package com.aziz.tariq.classroom;
 
-/**
- * Created by tariqaziz on 2016-10-14.
- */
 public class Message {
     private String text;
     private String author;
