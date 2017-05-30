@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "637307289019",
+    "firebase_url": "https://classroomandroid-a058a.firebaseio.com",
+    "project_id": "classroomandroid-a058a",
+    "storage_bucket": "classroomandroid-a058a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637307289019:android:35130e735bbcbad6",
+        "android_client_info": {
+          "package_name": "com.aziz.tariq.classroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637307289019-b3q3okgo95rfqspso1su4ao8lu71kda9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwkdi8QcEXswmoRpNiD28Ys-zN6rxWbxw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
