@@ -18,7 +18,6 @@ import com.google.firebase.database.ValueEventListener;
 import java.util.ArrayList;
 import java.util.List;
 
-//WHATS THE SIGNIFICANCE OF EXTENDING APPCOMPATACTIVITY?
 public class MainActivity extends AppCompatActivity {
 
     DatabaseReference mDatabase;
