@@ -1,8 +1,6 @@
 package com.aziz.tariq.classroom;
 
-/**
- * Created by tariqaziz on 2016-10-14.
- */
+
 public class Classroom {
     private String courseCode;
     private String profName;
