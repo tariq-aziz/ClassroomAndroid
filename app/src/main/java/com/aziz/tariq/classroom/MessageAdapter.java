@@ -9,9 +9,7 @@ import android.widget.TextView;
 
 import java.util.List;
 
-/**
- * Created by tariqaziz on 2016-10-14.
- */
+
 public class MessageAdapter extends BaseAdapter{
     private Context mContext;
     private List<Message> mMessages;
