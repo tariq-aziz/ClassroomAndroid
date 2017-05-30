@@ -9,9 +9,6 @@ import android.widget.TextView;
 
 import java.util.List;
 
-/**
- * Created by tariqaziz on 2016-10-14.
- */
 public class ClassroomAdapter extends BaseAdapter{
 
     private Context mContext;
